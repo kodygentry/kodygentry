@@ -1,4 +1,4 @@
-### Hello World!
+### Hello World! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 I'm Kody Gentry, a Senior Computer Science student at Texas State University with a minor in Mathematics.
 - I’m interested in Artificial Intelligence, Fullstack Development, and Game Development
 - I’m currently learning HTML/CSS/JS
@@ -27,12 +27,11 @@ I'm Kody Gentry, a Senior Computer Science student at Texas State University wit
 <br />
 <br />
 
-<details>
-  <summary>GitHub Stats</summary>
+#### Profile Visits 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kodygentry)
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kodygentry&show_icons=true&hide_border=true" />
+![Noah's github stats](https://github-readme-stats.vercel.app/api?username=kodygentry&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-</details>
 
 [instagram]: https://instagram.com/kodygentry
 [linkedin]: https://www.linkedin.com/in/kodygentry/
