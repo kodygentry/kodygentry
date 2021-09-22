@@ -2,10 +2,12 @@
 I'm Kody Gentry, a Senior Computer Science student at Texas State University with a minor in Mathematics.
 - I’m interested in Artificial Intelligence, Fullstack Development, and Game Development
 - I’m currently learning HTML/CSS/JS
+- My current in-progress-projects: [Hunny Dating App](https://github.com/kodygentry/Hunny) - [Disease Diagnosis AI](https://github.com/kodygentry/Artificial-Intelligence/CardiovascularDiseaseDiagnosisExpertSystem) 
 - How to reach me: [kodygentry3737@gmail.com] - [kmg221@txstate.edu]
 
 ### Connect with me:
 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" />][bitbucket]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -34,6 +36,7 @@ I'm Kody Gentry, a Senior Computer Science student at Texas State University wit
 
 ![Noah's github stats](https://github-readme-stats.vercel.app/api?username=kodygentry&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+[bitbucket]: https://bitbucket.org/cs3398-f21-vulcans/hunny
 [github]: https://git.txstate.edu/kmg221?tab=repositories
 [instagram]: https://instagram.com/kodygentry
 [linkedin]: https://www.linkedin.com/in/kodygentry/
