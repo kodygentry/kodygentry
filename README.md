@@ -6,6 +6,7 @@ I'm Kody Gentry, a Senior Computer Science student at Texas State University wit
 
 ### Connect with me:
 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -32,6 +33,6 @@ I'm Kody Gentry, a Senior Computer Science student at Texas State University wit
 
 ![Noah's github stats](https://github-readme-stats.vercel.app/api?username=kodygentry&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-
+[github]: https://git.txstate.edu/kmg221?tab=repositories
 [instagram]: https://instagram.com/kodygentry
 [linkedin]: https://www.linkedin.com/in/kodygentry/
