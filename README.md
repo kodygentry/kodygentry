@@ -1,6 +1,6 @@
 ### Hello World! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 I'm Kody Gentry, a Senior Computer Science student at Texas State University with a minor in Mathematics.
-- I’m interested in Fullstack Development and Game Development
+- I’m interested in Software Engineering with a focus on Fullstack Development and also Game Development!
 - I’m currently learning HTML/CSS/JS, Django, Python, React, Software Engineering principles
 - My current in-progress-projects: [Hunny Dating App](https://github.com/kodygentry/Hunny) - [Tic Tac Toe AI](https://github.com/kodygentry/Tic-Tac-Toe-AI) - [CodeMap](https://github.com/TheBenPayton/CodeMap)
 - How to reach me: [kodygentry3737@gmail.com] - [kmg221@txstate.edu)
