@@ -34,7 +34,7 @@ I'm Kody Gentry, a Senior Computer Science student at Texas State University wit
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kodygentry)
 
-![Noah's github stats](https://github-readme-stats.vercel.app/api?username=kodygentry&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Kody's github stats](https://github-readme-stats.vercel.app/api?username=kodygentry&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 [bitbucket]: https://bitbucket.org/cs3398-f21-vulcans/hunny
 [github]: https://git.txstate.edu/kmg221?tab=repositories
