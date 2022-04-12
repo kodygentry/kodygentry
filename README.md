@@ -2,7 +2,7 @@
 My name is Kody Gentry, I'm a Senior Computer Science student at Texas State University with a minor in Mathematics.
 - I’m interested in Software Engineering with a focus in Backend/Frontend Development and also Game Development!
 - I’m currently learning HTML/CSS/JS, Django, Python, React, Software Engineering principles
-- My current in-progress-projects: [Hunny Dating App](https://github.com/kodygentry/Hunny) - [Dungeon Slayer](https://github.com/adrianLamphier/Dungeon-Slayer)
+- My current in-progress-projects: [Hunny Dating App](https://github.com/kodygentry/Hunny) - [Dungeon Slayer](https://github.com/adrianLamphier/Dungeon-Slayer) - [Portfolio](https://github.com/kodygentry/portfolio)
 - How to reach me: [kodygentry3737@gmail.com] - [kmg221@txstate.edu]
 
 ### Connect with me:
