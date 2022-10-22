@@ -2,8 +2,7 @@
 My name is Kody Gentry, I'm a Computer Science graduate from Texas State University with a minor in Mathematics.
 I'm currently working as a Test Automation Analyst at a big 4 accounting firm.
 - I’m currently learning SQL, Spring Boot, Java, AWS
-- My current in-progress-projects: [Hunny Dating App](https://github.com/kodygentry/Hunny) - [Dungeon Slayer](https://github.com/adrianLamphier/Dungeon-Slayer) - [Portfolio](https://github.com/kodygentry/portfolio)
-- How to reach me: [kodygentry3737@gmail.com]
+- How to reach me: [kodygentry3737@gmail.com][linkedin.com/in/kodygentry/]
 
 ### Connect with me:
 
