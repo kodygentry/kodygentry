@@ -1,10 +1,8 @@
 ### Hello World! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 My name is Kody Gentry, I'm a Computer Science graduate from Texas State University with a minor in Mathematics.
 I'm currently working as a Test Automation Analyst at a big 4 accounting firm.
-- I’m currently learning SQL, Spring Boot, Java, AWS
-- How to reach me: 
-[kodygentry3737@gmail.com]
-[LinkedIn]: linkedin.com/in/kodygentry
+- I’m currently learning Selenium, SQL, Spring Boot, Java, AWS
+- How to reach me: [kodygentry3737@gmail.com]
 
 ### Connect with me:
 
