@@ -2,6 +2,7 @@
 My name is Kody Gentry, I'm a Computer Science graduate from Texas State University with a minor in Mathematics.
 I'm currently working as a Test Automation Analyst at a big 4 accounting firm.
 - I’m currently learning Selenium, SQL, Spring Boot, Java, AWS
+- Recent Projects: [Basic Scripts]: https://github.com/kodygentry/Scripts 
 - How to reach me: [kodygentry3737@gmail.com]
 
 ### Connect with me:
