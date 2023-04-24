@@ -2,7 +2,7 @@
 My name is Kody Gentry, I'm a Computer Science graduate from Texas State University with a minor in Mathematics.
 I'm currently working as a Test Automation Analyst.
 - How to reach me: kodygentry3737@gmail.com
-- Website: (https://kodygentry.com)
+- Website: (kodygentry.com)
 
 ### Connect with me:
 
