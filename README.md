@@ -2,15 +2,6 @@
 
 🔗 [Check out my portfolio!](https://kodygentry.github.io/)
 
----
-
-## Connect with Me
-<a href="[your-linkedin-url](https://www.linkedin.com/in/kodygentry/)">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="20"/>
-</a>
-
----
-
 ## Languages and Tools
 
 <p align="left">
