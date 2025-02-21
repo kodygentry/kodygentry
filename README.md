@@ -5,7 +5,9 @@
 ---
 
 ## Connect with Me
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/kodygentry/))
+<a href="[your-linkedin-url](https://www.linkedin.com/in/kodygentry/)">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="20"/>
+</a>
 
 ---
 
